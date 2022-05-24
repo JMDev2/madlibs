@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">madlibs</string>
+    <string name="person_name">Person Name</string>
+    <string name="color">Color</string>
+    <string name="food">Food</string>
+    <string name="adjective">Adjective</string>
+    <string name="thing">Thing</string>
+    <string name="button">Submit</string>
+
+    <string name="story">Today we picked apple from %1$s\'s Orchard. I had no idea there were so many different varieties of apples. I ate %2$s apples straight off the tree that tested like %3$s. Then there was a %4$s apple that looked like a %5$s.</string>
+</resources>
